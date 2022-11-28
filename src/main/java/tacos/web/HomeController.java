@@ -1,4 +1,4 @@
-package org.springtest;
+package tacos.web;
 
 
 import org.springframework.stereotype.Controller;
